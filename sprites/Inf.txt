@@ -1,0 +1,4 @@
+Porta - 72 largura, 297 altura
+janela - 143 largura, 148 altura
+botão - 132 largura, 22 altura
+relógio - 57 largura, 65 altura
